@@ -2,3 +2,6 @@ song -artist
 sound - zimmer
 sound2 -zimmer
 sound3 - horner
+
+beats - techno
+beats2 - techno2
